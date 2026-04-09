@@ -51,9 +51,7 @@
 
 <br/>
 
-<table border="0" width="90%" align="center">
-<tr>
-<td width="50%" valign="top">
+
 
 <img src="https://img.shields.io/badge/Name-Subhechha%20Maiti-00b4d8?style=for-the-badge&labelColor=0a192f" />
 <br/><br/>
@@ -91,15 +89,9 @@
 
 > *"Every bug is a lesson in disguise."*
 
-</td>
-<td width="50%" align="center" valign="middle">
 
 <br/>
 
-<!-- ✅ Girl developer GIF -->
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360" alt="Girl Developer Animation" />
-
-<br/>
 
 </td>
 </tr>
