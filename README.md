@@ -40,61 +40,76 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                  ABOUT ME / IDENTITY SECTION                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ================================================================== -->
+<!--                      ABOUT / WHO AM I                            -->
+<!-- ================================================================== -->
 
 <br/>
 
-<table align="center" border="0">
-<tr>
-<td width="55%" valign="top">
+<div align="center">
 
 ## 🧠 Who Am I?
 
-```typescript
-const subhechha: Developer = {
-  name: "Subhechha Maiti",
-  location: "India 🇮🇳",
-  mindset: "Builder. Debugger. Relentless.",
+<br/>
 
-  focus: [
-    "Full-Stack Web Development",
-    "Open Source Contributions",
-    "Clean, Readable Code",
-    "Systems Thinking"
-  ],
+<table border="0" width="90%" align="center">
+<tr>
+<td width="50%" valign="top">
 
-  currentlyExploring: [
-    "AI & Machine Learning",
-    "TypeScript & Node.js",
-    "Cloud & DevOps",
-    "React Ecosystem"
-  ],
+<img src="https://img.shields.io/badge/Name-Subhechha%20Maiti-00b4d8?style=for-the-badge&labelColor=0a192f" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Location-India%20%F0%9F%87%AE%F0%9F%87%B3-00b4d8?style=for-the-badge&labelColor=0a192f" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Mindset-Builder.%20Debugger.%20Relentless.-39d353?style=for-the-badge&labelColor=0a192f" />
+<br/><br/>
+<img src="https://img.shields.io/badge/Status-Always%20Building%20%F0%9F%9A%80-ccd6f6?style=for-the-badge&labelColor=0a192f" />
 
-  philosophy: "Every bug is a lesson in disguise.",
-  status: "Always building something. 🚀"
-};
-```
+<br/><br/>
+
+**🎯 Focus Areas**
+
+<br/>
+
+![](https://img.shields.io/badge/-Backend%20Engineering-0a192f?style=flat-square&logo=go&logoColor=00b4d8)
+![](https://img.shields.io/badge/-Open%20Source-0a192f?style=flat-square&logo=github&logoColor=39d353)
+![](https://img.shields.io/badge/-Systems%20Design-0a192f?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![](https://img.shields.io/badge/-Clean%20Code-0a192f?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
+![](https://img.shields.io/badge/-DevOps-0a192f?style=flat-square&logo=docker&logoColor=2496ED)
+![](https://img.shields.io/badge/-Cloud%20%26%20Infra-0a192f?style=flat-square&logo=amazonaws&logoColor=FF9900)
+
+<br/><br/>
+
+**🔍 Currently Exploring**
+
+<br/>
+
+![](https://img.shields.io/badge/-Distributed%20Systems-0a192f?style=flat-square&logo=apachekafka&logoColor=white)
+![](https://img.shields.io/badge/-Kubernetes%20Internals-0a192f?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![](https://img.shields.io/badge/-AI%20%26%20ML-0a192f?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![](https://img.shields.io/badge/-Performance%20Engineering-0a192f?style=flat-square&logo=prometheus&logoColor=E6522C)
+
+<br/><br/>
+
+> *"Every bug is a lesson in disguise."*
 
 </td>
-<td width="45%" align="center" valign="top">
+<td width="50%" align="center" valign="middle">
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Developer Animation" />
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Developer coding gif" style="border-radius: 10px;" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=subhechhamaiti716-byte&label=Profile+Views&color=00d2ff&style=for-the-badge&labelColor=0d1117" />
+<img src="https://komarev.com/ghpvc/?username=subhechhamaiti716-byte&label=Profile+Views&color=00b4d8&style=for-the-badge&labelColor=0a192f" />
 
 </td>
 </tr>
 </table>
 
+</div>
+
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK SECTION                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
