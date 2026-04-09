@@ -39,7 +39,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ================================================================== -->
 <!--                      ABOUT / WHO AM I                            -->
 <!-- ================================================================== -->
@@ -93,14 +92,14 @@
 > *"Every bug is a lesson in disguise."*
 
 </td>
-<td width="100%" align="center" valign="middle">
+<td width="50%" align="center" valign="middle">
 
 <br/>
 
+<!-- ✅ Girl developer GIF -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360" alt="Girl Developer Animation" />
 
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=subhechhamaiti716-byte&label=Profile+Views&color=00b4d8&style=for-the-badge&labelColor=0a192f" />
+<br/>
 
 </td>
 </tr>
@@ -109,6 +108,7 @@
 </div>
 
 <br/>
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK SECTION                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -128,6 +128,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-00b4d8?style=for-the-badge&logo=leetcode&logoColor=white)
+
 <br/>
 
 **Frameworks & Libraries**
@@ -145,7 +146,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-
 <br/>
 
 **Dev Tools**
@@ -158,6 +158,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
 </div>
 
 <br/>
@@ -354,7 +355,7 @@ decision — I step up. Versatility is my default mode.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               CONNECT / SOCIAL SECTION                       -->
+<!--               CONNECT / SOCIAL SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
