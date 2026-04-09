@@ -39,7 +39,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- ================================================================== -->
 <!--                      ABOUT / WHO AM I                            -->
 <!-- ================================================================== -->
@@ -70,7 +69,7 @@
 
 <br/>
 
-![](https://img.shields.io/badge/-Backend%20Engineering-0a192f?style=flat-square&logo=go&logoColor=00b4d8)
+![](https://img.shields.io/badge/-Full--Stack%20Dev-0a192f?style=flat-square&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/-Open%20Source-0a192f?style=flat-square&logo=github&logoColor=39d353)
 ![](https://img.shields.io/badge/-Systems%20Design-0a192f?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![](https://img.shields.io/badge/-Clean%20Code-0a192f?style=flat-square&logo=visualstudiocode&logoColor=007ACC)
@@ -83,10 +82,10 @@
 
 <br/>
 
-![](https://img.shields.io/badge/-Distributed%20Systems-0a192f?style=flat-square&logo=apachekafka&logoColor=white)
-![](https://img.shields.io/badge/-Kubernetes%20Internals-0a192f?style=flat-square&logo=kubernetes&logoColor=326CE5)
 ![](https://img.shields.io/badge/-AI%20%26%20ML-0a192f?style=flat-square&logo=tensorflow&logoColor=FF6F00)
-![](https://img.shields.io/badge/-Performance%20Engineering-0a192f?style=flat-square&logo=prometheus&logoColor=E6522C)
+![](https://img.shields.io/badge/-Next.js-0a192f?style=flat-square&logo=nextdotjs&logoColor=white)
+![](https://img.shields.io/badge/-Kubernetes-0a192f?style=flat-square&logo=kubernetes&logoColor=326CE5)
+![](https://img.shields.io/badge/-System%20Design-0a192f?style=flat-square&logo=prometheus&logoColor=E6522C)
 
 <br/><br/>
 
@@ -97,11 +96,12 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="380" alt="Developer Animation" />
+<!-- ✅ GIRL DEVELOPER GIF — replaced man photo -->
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="360" alt="Girl Developer Animation" />
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=subhechhamaiti716-byte&label=Profile+Views&color=00b4d8&style=for-the-badge&labelColor=0a192f" />
+<img src="https://komarev.com/ghpvc/?username=subhechhamaiti716-byte&label=Profile+Views&color=00d2ff&style=for-the-badge&labelColor=0d1117" />
 
 </td>
 </tr>
@@ -110,6 +110,9 @@
 </div>
 
 <br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!--                    TECH STACK SECTION                         -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
@@ -129,6 +132,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![DSA](https://img.shields.io/badge/DSA-Problem%20Solving-00b4d8?style=for-the-badge&logo=leetcode&logoColor=white)
+
 <br/>
 
 **Frameworks & Libraries**
@@ -146,7 +150,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 
-
 <br/>
 
 **Dev Tools**
@@ -159,6 +162,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+
 </div>
 
 <br/>
@@ -355,7 +359,7 @@ decision — I step up. Versatility is my default mode.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!--               CONNECT / SOCIAL SECTION                       -->
+<!--               CONNECT / SOCIAL SECTION                        -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <br/>
