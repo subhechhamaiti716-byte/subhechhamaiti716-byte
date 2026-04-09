@@ -93,7 +93,7 @@
 > *"Every bug is a lesson in disguise."*
 
 </td>
-<td width="50%" align="center" valign="middle">
+<td width="100%" align="center" valign="middle">
 
 <br/>
 
