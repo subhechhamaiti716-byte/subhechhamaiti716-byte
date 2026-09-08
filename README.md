@@ -51,49 +51,11 @@
 ## 🚀 Featured Repositories
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/subhechhamaiti716-byte/SmokeShield" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhechhamaiti716-byte&repo=SmokeShield&theme=tokyonight&hide_border=true" alt="SmokeShield" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/subhechhamaiti716-byte/careerpilot" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhechhamaiti716-byte&repo=careerpilot&theme=tokyonight&hide_border=true" alt="careerpilot" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/subhechhamaiti716-byte/FinSight-Tracker" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhechhamaiti716-byte&repo=FinSight-Tracker&theme=tokyonight&hide_border=true" alt="FinSight-Tracker" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/subhechhamaiti716-byte/LevelForge" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhechhamaiti716-byte&repo=LevelForge&theme=tokyonight&hide_border=true" alt="LevelForge" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/subhechhamaiti716-byte/StackTask" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=subhechhamaiti716-byte&repo=StackTask&theme=tokyonight&hide_border=true" alt="StackTask" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
 
 | 📌 Project | 💻 Primary Stack | 🔗 Direct Link |
 | :--- | :--- | :---: |
 | 🛡️ **SmokeShield** | `TypeScript` `Full Stack` | [Open Repository ↗](https://github.com/subhechhamaiti716-byte/SmokeShield) |
-| 🧭 **CareerPilot** | `JavaScript` `React/Node` | [Open Repository ↗](https://github.com/subhechhamaiti716-byte/careerpilot) |
+| 🧭 **CareerPilot** | `JavaScript` `React / Node` | [Open Repository ↗](https://github.com/subhechhamaiti716-byte/careerpilot) |
 | 📈 **FinSight-Tracker** | `HTML5` `CSS3` `JavaScript` | [Open Repository ↗](https://github.com/subhechhamaiti716-byte/FinSight-Tracker) |
 | ⚡ **LevelForge** | `JavaScript` `Frontend` | [Open Repository ↗](https://github.com/subhechhamaiti716-byte/LevelForge) |
 | 📋 **StackTask** | `JavaScript` `Web App` | [Open Repository ↗](https://github.com/subhechhamaiti716-byte/StackTask) |
@@ -194,36 +156,6 @@
 - [x] **Cloud Hosting & Deployment** (Vercel, Render, Railway)
 
 </details>
-
----
-
-## 📊 Live GitHub Analytics & Top Languages
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <!-- Top Languages Card -->
-        <a href="https://github.com/subhechhamaiti716-byte">
-          <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhechhamaiti716-byte&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Subhechha's Most Used Languages" />
-        </a>
-      </td>
-      <td>
-        <!-- GitHub Stats Card -->
-        <a href="https://github.com/subhechhamaiti716-byte">
-          <img height="185em" src="https://github-readme-stats.vercel.app/api?username=subhechhamaiti716-byte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Subhechha's GitHub Stats" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <p align="center">
-    <!-- Streak Card -->
-    <a href="https://github.com/subhechhamaiti716-byte">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=subhechhamaiti716-byte&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-    </a>
-  </p>
-</div>
 
 ---
 
